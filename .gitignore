@@ -1,0 +1,11 @@
+# Large analysis files
+*.xlsx
+*.xls
+*.pbix
+*.csv
+*.zip
+
+# Temporary files
+~$*
+*.tmp
+.DS_Store
