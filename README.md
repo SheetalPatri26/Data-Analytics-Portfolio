@@ -48,5 +48,5 @@ Understand how casual riders and annual members use the bike-sharing service dif
 
 ## Contact
 
-- LinkedIn: [Sheetal Patri](https://www.linkedin.com/in/sheetalpatri26/)
+- LinkedIn: [Sheetal Patri](https://www.linkedin.com/in/sheetal-patri-a0383126a/)
 - Email: patrisheetal26@gmail.com
